@@ -1,0 +1,17 @@
+1) .php
+2) :
+3) Para definir las variables
+4) numeros, caracteres
+5) $int =3;
+   $string(int); 
+6.1) V
+6.2) F
+7) En que la ++$j es de 
+8)
+9) 
+10) $nume;
+    funcion suma($num2=5){
+	nume=num2+5;
+}
+
+
