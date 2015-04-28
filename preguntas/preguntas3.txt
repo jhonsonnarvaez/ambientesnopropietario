@@ -1,0 +1,12 @@
+1.- Las principales elementos son:
+-JavaScript
+-HTML5 o PHP
+-CSS
+-Bases de Datos (MySQL)
+2.- Hypertext Mackup Languaje
+3.- PHP es un lenguaje dinamico que permite trabajar con la funcionalidad mientras los 
+JavaScript sirve para interactuar con el usuario; se lo usaria conjuntamente porque las dos nos muestra 
+una pagina interactiva para el usuario final.
+4.- Estilos en cascada y sirve para diseñar o dimensionar o dar estilo a nuestra pagina
+5.- 
+6.- Son servidores locales
