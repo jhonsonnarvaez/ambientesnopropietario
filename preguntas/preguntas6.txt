@@ -1,0 +1,8 @@
+1) 0 y 1
+2) 
+3) Asociar a los operadores significa terner una asociacion de dos o mas operadores para separarlos de un signo y no tener la 
+confución al ejecutarlos y obetner un error.
+4) Se lo utiliza cuando vamos a identificar si el valor uno es proporcional al otro 
+5) break
+6) El operador ternario es para trabajar con tres operaciones a la vez por ejemplo un IF se lo utiliza de la siguiente 
+forma ?> x:y
