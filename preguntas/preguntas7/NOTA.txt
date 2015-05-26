@@ -1,0 +1,7 @@
+6/10
+
+falta un punto y coma en la 14.
+Revisar y practicar como funciona el foreach.
+Esta cerca de hacer lo que se pide pero no hace falta 
+el for interno simplemente se puede imprimir $pais y $capital 
+dentro de las celdas de la tabla.

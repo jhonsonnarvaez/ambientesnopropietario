@@ -1,0 +1,9 @@
+NOTA: 6/10
+Al hacer esto:
+    <td>
+    <?php 
+      desplegar_mes();
+    ?>
+    </td>
+estas imprimiendo todo en una sola celda y por eso tienes ese resultado. Lo que debes hacer es ir imprimiendo con PHP las celdas de la tabla mientras vas iterando por los días de la semana. No te falta mucho para lograr el resultado deseado.
+
