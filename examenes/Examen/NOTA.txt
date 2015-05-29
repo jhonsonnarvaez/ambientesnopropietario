@@ -1,0 +1,27 @@
+3/10
+El htaccess no está configurado correctamente.
+
+p_index.php
+  linea 29 falta el $ de validar.
+  La validación de nombre de usuario y contraseña es correcto.
+  En la linea 3 de no es $_SESSION(['username']) sino $_SESSION['username'] sin los paréntesis, por eso te muestra el error.
+
+inicio.php
+  El HTML está incompleto, no es lo que se pide.
+  El select se escribe así:
+  <select name="nombre">
+    <option value="valor1">Opción 1</option>
+    <option value="valor2">Opción 2</option>
+  </select>
+  El for de la linea 48 no es necesario
+  el foreach debe ser así:
+  foreach ($estudiantes_progra as $Estudiante =>$Notas){
+    
+  }
+
+Debes mantener un mismo estilo de nombres de variables en todo el código en el foreach empiezan unas con minúsculas otras con mayúsculas.
+
+config.php
+  Correctamente definida la función http_redirect()
+
+El código no cumple con las especificaciones indicadas, únicamente la validación de usuario está parcialmente correcta ya que no logra presentarse la página index.

@@ -1,0 +1,8 @@
+7/10
+Como han hecho varios juntos, tienen los mismo errores entonces van los mismos comentarios que para los compañeros.
+Se debe separar el código PHP del HTML el formulario.php no lo hace.
+Siempre se debe estructurar bien el documento HTML. El Resultado.php no tiene toda la estructura del HTML.
+Se debe presentar mejor los resultados del formulario utilizando DIV o UL por ejemplo.
+La validación de usuario y contraseña está correcta.
+Cuidar siempre la identación, esto es parte de la calidad de código y permite mejorar la legibilidad.
+Si te fijas bien solo estás pasando el último checkbox seleccionado. Cuando se tiene un conjunto de checkboxes el name debe ser name = "intereses[]" así se pasa un arreglo con todos lo valores seleccionados.
